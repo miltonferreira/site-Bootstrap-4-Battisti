@@ -1,0 +1,6 @@
+https://getbootstrap.com/docs/4.5/getting-started/download/
+https://code.jquery.com/
+https://fontawesome.com/start
+https://github.com/kimmobrunfeldt/progressbar.js/
+https://pixelcog.github.io/parallax.js/
+https://fonts.google.com/
